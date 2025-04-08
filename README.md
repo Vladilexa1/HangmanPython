@@ -12,4 +12,4 @@
 4. Повторно введенная буква не считается ошибкой, игра предлагает ввести букву снова.
 5. После каждой введенной буквы в консоль выводится зашифрованное слово (с уже отгаданными буквами), счётчик ошибок и текущее состояние виселицы (нарисованное ASCII символами)
 6. По завершении игра выводит результат и возвращается к состоянию #1 - предложение начать новую игру или выйти из приложения.
-![]([https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists](https://github.com/Vladilexa1/HangmanPython/blob/master/HangmanPython/img/im.png))
+![](https://github.com/Vladilexa1/HangmanPython/blob/master/HangmanPython/img/im.png)
