@@ -24,7 +24,6 @@ def check_valid_symbol(symbol):
 
 def start_new_game(word):
     clear()
-    print(word)
     count_mistake = 0
     print_gallows(count_mistake)
     result = ""
